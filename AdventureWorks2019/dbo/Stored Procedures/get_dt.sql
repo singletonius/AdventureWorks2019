@@ -1,0 +1,5 @@
+﻿CREATE PROCEDURE [dbo].[get_dt]
+	
+AS
+	SELECT GETDATE()
+RETURN 0
